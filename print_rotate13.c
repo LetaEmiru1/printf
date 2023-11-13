@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_rotate13 - print str  and rotate place in buffer
- * @iterator: va_list variable 
+ * @iterator: va_list variable
  * Return: counter
  *
  */

@@ -2,7 +2,7 @@
 
 /**
  * printf_sreverse - function that prints a str in reverse
- * @iterator: va_list variable 
+ * @iterator: va_list variable
  *
  * Return: the string
  */
