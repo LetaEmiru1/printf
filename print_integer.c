@@ -2,7 +2,7 @@
 /**
  * print_integer - prints integer
  * @iterator: argument to be printed.
- * Return: number of characters printed
+ * Return: number of character printed
  */
 int print_integer(va_list iterator)
 {
