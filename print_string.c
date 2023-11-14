@@ -2,7 +2,7 @@
 /**
  * print_string - print a string.
  * @iterator: va_list variable.
- * Return: string legth.
+ * Return: string len.
  */
 
 int print_string(va_list iterator)
