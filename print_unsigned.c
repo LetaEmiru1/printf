@@ -2,7 +2,7 @@
 /**
  * print_unsigned - prints integer
  * @iterator: argument to print
- * Return: number of characters printed
+ * Return: number of characters
  */
 int print_unsigned(va_list iterator)
 {
