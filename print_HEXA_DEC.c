@@ -3,7 +3,7 @@
 /**
  * print_HEXA_DEC - prints an hexadecimal number.
  * @num: number.
- * Return: counter.
+ * Return: counters.
  */
 int print_HEXA_DEC(unsigned int num)
 {
