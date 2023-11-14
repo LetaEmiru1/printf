@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_ex_string - prints exclusive string.
- * @val: argumen t.
+ * @iterator: argumen t.
  * Return: the length of the string.
  */
 

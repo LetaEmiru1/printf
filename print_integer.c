@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_integer - prints integer
- * @args: argument to be printed.
+ * @iterator: argument to be printed.
  * Return: number of characters printed
  */
 int print_integer(va_list iterator)
@@ -45,7 +45,7 @@ int print_integer(va_list iterator)
 
 /**
  * printf_dec - prints decimal
- * @args: argument to print
+ * @iterator: argument to print
  * Return: number of characters printed
  */
 

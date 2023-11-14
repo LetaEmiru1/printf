@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printf_sreverse - function that prints a str in reverse
+ * print_sreverse - function that prints a str in reverse
  * @iterator: va_list variable
  *
  * Return: the string

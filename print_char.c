@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * printf_char - prints a character.
- * @val: arguments.
+ * print_char - prints a character.
+ * @iterator: argument.
  * Return: 1.
  */
 int print_char(va_list iterator)

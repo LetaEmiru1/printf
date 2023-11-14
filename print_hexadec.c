@@ -2,7 +2,7 @@
 
 /**
  * print_hexadec - prints an hexadecimal number.
- * @val: arg
+ * @iterator: arg
  * Return: counter.
  */
 int print_hexadec(va_list iterator)
