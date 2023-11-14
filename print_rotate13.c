@@ -2,7 +2,7 @@
 /**
  * print_rotate13 - print str  and rotate place in buffer
  * @iterator: va_list variable
- * Return: counter
+ * Return: counters
  *
  */
 int print_rotate13(va_list iterator)
