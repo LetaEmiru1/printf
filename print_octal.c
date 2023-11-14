@@ -3,7 +3,7 @@
 /**
  * print_octal - prints an octal number.
  * @iterator: arguments.
- * Return: counter.
+ * Return: counters.
  */
 int print_octal(va_list iterator)
 {
