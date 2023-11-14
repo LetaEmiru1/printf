@@ -4,7 +4,7 @@
  * print_sreverse - function that prints a str in reverse
  * @iterator: va_list variable
  *
- * Return: the string
+ * Return: string
  */
 int print_sreverse(va_list iterator)
 {
