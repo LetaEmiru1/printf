@@ -3,7 +3,7 @@
 /**
  * print_pointer - prints a pointer.
  * @iterator: args.
- * Return: counter.
+ * Return: counters.
  */
 int print_pointer(va_list iterator)
 {
