@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_percent - prints the char 37.
- * Return: 1.
+ * Return: 1 succes.
  */
 int print_percent(void)
 {
