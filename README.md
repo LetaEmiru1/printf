@@ -1,2 +1,2 @@
 # printf project
-formating function.this function behaves exactly like the standarde printf function.
+This function behaves exactly like the standard printf function.
